@@ -158,7 +158,7 @@ Thoroughly updated, this fourth edition focuses on modern techniques used to gen
 
 ### Chapter 13: Beyond Polygons
 
-- Presenter: TBA
+- Presenter: Taewoo Lee [[Presentation]](./1%20-%20Presentation/261031%20-%20Real-time%20Rendering%204th%20Study,%20Chapter%2013.pdf)
   - The Rendering Spectrum
   - Fixed-View Effects
   - Skyboxes
